@@ -1,0 +1,17 @@
+.body{
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    background-image: url("https://img.lovepik.com/photo/40026/0455.jpg_wh300.jpg");
+    background-repeat: repeat;
+    z-index: 1;
+}
+.input{
+    width:50vw;
+    background-color:white;
+    color: black;
+    opacity: 0.8;
+}
+.input:hover{
+    opacity: 1;
+}
